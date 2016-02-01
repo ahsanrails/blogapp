@@ -1,0 +1,2 @@
+module AbloutHelper
+end
